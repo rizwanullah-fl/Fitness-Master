@@ -21,39 +21,35 @@
 
 ## Screenshots
 
-### **1. Login Screen**
-![Login Screen](https://example.com/login_screenshot.png)
+### **1. Onboarding Screen**
+<img width="1675" alt="Screenshot 2024-11-21 at 4 42 57 PM" src="https://github.com/user-attachments/assets/e15b4c8f-0990-4061-a073-8cfe906cd4db">
 
 ---
 
-### **2. Daily Fitness Videos**
-![Daily Fitness Videos](https://example.com/fitness_videos_screenshot.png)
-
----
-
-### **3. Workout Timer**
+### **2. Workout Timer**
 ![Workout Timer](https://example.com/timer_screenshot.png)
 
 ---
 
-### **4. Water Intake Tracker**
+### **3. Water Intake Tracker**
 ![Water Intake Tracker](https://example.com/water_tracker_screenshot.png)
 
 ---
 
-### **5. Fitness Stories**
-![Fitness Stories](https://example.com/fitness_stories_screenshot.png)
+### **4. Fitness Stories**
+<img width="1675" alt="Screenshot 2024-11-21 at 4 44 26 PM" src="https://github.com/user-attachments/assets/116d7edb-ac45-4556-bc03-e15e80dced98">
+<img width="1675" alt="Screenshot 2024-11-21 at 4 44 44 PM" src="https://github.com/user-attachments/assets/c3a4c4b5-d67d-4528-b123-5bb56e56772d">
 
 ---
 
-### **6. Body Fat Calculator**
-![Body Fat Calculator](https://example.com/calculator_screenshot.png)
+### **5. Body Fat Calculator**
+<img width="1675" alt="Screenshot 2024-11-21 at 4 44 03 PM" src="https://github.com/user-attachments/assets/71b10b84-7a79-4e63-99dd-a62968a2052a">
 
 ---
 
 ## Technical Details
 
-- **Framework**: Flutter
+- **Framework**: Flutter,Dart
 - **State Management**: GetX
 - **Backend**: Firebase for authentication and data storage
 - **Supported Platforms**: Android & iOS
