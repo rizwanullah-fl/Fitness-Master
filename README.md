@@ -26,13 +26,13 @@
 
 ---
 
-### **2. Workout Timer**
-![Workout Timer](https://example.com/timer_screenshot.png)
+### **2. Profile Screen**
+<img width="1675" alt="Screenshot 2024-11-21 at 4 49 30 PM" src="https://github.com/user-attachments/assets/6d62306d-d94e-44a2-a5d3-1834690146de">
 
 ---
 
 ### **3. Water Intake Tracker**
-![Water Intake Tracker](https://example.com/water_tracker_screenshot.png)
+<img width="1675" alt="Screenshot 2024-11-21 at 4 48 40 PM" src="https://github.com/user-attachments/assets/f497b73d-c2a4-45d3-bc42-28550ba65aa2">
 
 ---
 
